@@ -1,0 +1,7 @@
+C:\Users\alva.carlbring\Documents\GitHub\AlvaCarlbringEprovDel2\EprovAlvaCarlbringDel2\EprovAlvaCarlbringDel2\obj\Debug\EprovAlvaCarlbringDel2.csprojResolveAssemblyReference.cache
+C:\Users\alva.carlbring\Documents\GitHub\AlvaCarlbringEprovDel2\EprovAlvaCarlbringDel2\EprovAlvaCarlbringDel2\obj\Debug\EprovAlvaCarlbringDel2.csproj.CoreCompileInputs.cache
+C:\Users\alva.carlbring\Documents\GitHub\AlvaCarlbringEprovDel2\EprovAlvaCarlbringDel2\EprovAlvaCarlbringDel2\bin\Debug\EprovAlvaCarlbringDel2.exe.config
+C:\Users\alva.carlbring\Documents\GitHub\AlvaCarlbringEprovDel2\EprovAlvaCarlbringDel2\EprovAlvaCarlbringDel2\bin\Debug\EprovAlvaCarlbringDel2.exe
+C:\Users\alva.carlbring\Documents\GitHub\AlvaCarlbringEprovDel2\EprovAlvaCarlbringDel2\EprovAlvaCarlbringDel2\bin\Debug\EprovAlvaCarlbringDel2.pdb
+C:\Users\alva.carlbring\Documents\GitHub\AlvaCarlbringEprovDel2\EprovAlvaCarlbringDel2\EprovAlvaCarlbringDel2\obj\Debug\EprovAlvaCarlbringDel2.exe
+C:\Users\alva.carlbring\Documents\GitHub\AlvaCarlbringEprovDel2\EprovAlvaCarlbringDel2\EprovAlvaCarlbringDel2\obj\Debug\EprovAlvaCarlbringDel2.pdb
